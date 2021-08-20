@@ -1,3 +1,6 @@
 1. open chrome
 2. type google.com
-3.close the screen
+3. in search field enter "Cricket"
+4. Click search button
+5. See the result
+6. End.....
