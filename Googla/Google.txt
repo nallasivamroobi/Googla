@@ -5,4 +5,6 @@
 5. See the result
 6. Find the links consists of "Cricket"
 7. Select the 11th link and click that.
-8. Second End.
+8. the go back 
+9. Click the 3rd link
+10 Analyze the page
